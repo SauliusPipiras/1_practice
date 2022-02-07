@@ -1,3 +1,4 @@
-## Heading 2022-02-05 praktika
-=============================
+## 2022-02-05 praktika
+======================
+
 Praktinės HTML kodo užduotys.
